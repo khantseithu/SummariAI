@@ -2,7 +2,7 @@
 
 SummariAI is a web application that uses OpenAI's GPT-4 to generate summaries of articles. The application can be accessed through a web browser, making it easy to use on any device.
 
-## Demo
+## [Demo](https://summari-ai.vercel.app/)
 
 ![Example GIF](/src/assets/demo.gif)
 
