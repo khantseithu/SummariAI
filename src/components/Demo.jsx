@@ -32,7 +32,6 @@ const Demo = () => {
 
       // save to local storage
       localStorage.setItem("articles", JSON.stringify(newAllArticles));
-      console.log(newArticle);
     }
   };
 
